@@ -587,3 +587,157 @@ hr {
        height: 200px;
    }
 }
+
+@media (max-width:500px){
+    .hero-section{
+        width: 100%;
+        height: 1200px;
+    }
+    .nav-elements{
+        display: inline;
+    }
+    .nav-element{
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .hero-content{
+        position: absolute;
+        top: 300px;
+        height: 100px;
+    }
+    .hero-content-2{
+        font-size: 18px;
+    }
+    .hero-content-1{
+        font-size: 30px;
+        
+    }
+    .hero-sub-content{
+        width: 400px;
+        margin-top: -30px;
+    }
+    .form-input-1{
+        width: 400px;
+        height: 55px;
+        margin-bottom: 20px;
+    }
+        .form-input-2 {
+            width: 400px;
+            height: 55px;
+        }
+        .text-input{
+            margin-top: 20px;
+            height: 235px;
+        }
+    .text-button{
+    top: 500px;
+    left: 70px;
+    }
+    .section-two{
+        width: 100%;
+        height: 1000px;
+    }
+    .heading{
+        font-size: 25px;
+        
+    }
+    .content{
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .image-section-first{
+        display: block;
+    }
+    .section-three{
+        width: 100%;
+    }
+    .section-three-1{
+        padding-bottom: 0px;
+    }
+    .four-title{
+        font-size: 28px;
+    }
+    .four-content{
+        font-size: 20px;
+        display: block;
+        text-align: center;
+    }
+    .pictures{
+        padding-bottom: 30px;
+        margin-top: 0px;
+    }
+    .picture-1{
+        width: 470px;
+        height: 260px;
+        margin-left: 15px;
+    }
+        .picture-2 {
+            width: 470px;
+            height: 260px;
+            margin-left: 15px;
+        }
+                .picture-3 {
+                    width: 470px;
+                    height: 260px;
+                    margin-left: 15px;
+                }
+    .pic-button{
+        margin-top: 100px;
+        padding: 10px 30px;
+        font-size: 10px;
+    }
+        .section-five {
+            width: 100%;
+            height: 1000px;
+        }
+    
+        .section-five-1 {
+            width: 100%;
+        }
+    
+        .section-five-3 {
+            display: block;
+            width: 450px;
+            text-align: center;
+            top: 600px;
+            left: 20px;
+            padding: 30px 0px;
+        }
+    
+        .contents-5 {
+            display: block;
+        }
+    
+        .content-5-1 {
+            font-size: 25px;
+        }
+    
+        .content-5-2 {
+            font-size: 20px;
+            line-height: 30px;
+        }
+                .section-six {
+                    width: 100%;
+                    height: 1500px;
+                    display: block;
+                }
+        
+                .list-title {
+                    font-size: 15px;
+                    line-height: 30px;
+                    padding-bottom: 0px;
+                    padding-top: 10px;
+                    color: black;
+                }
+        
+                .list-item {
+                    line-height: 20px;
+                    font-size: 15px;
+                }
+        
+                .section-seven {
+                    width: 100%;
+                    height: 100px;
+                    font-size: 15px;
+                }
+}
